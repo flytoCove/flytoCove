@@ -1,5 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=flytoCove&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00A1D6&icon_color=00A1D6" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharky-shark-Blue&theme=tokyonight&hide_border=true&background=0D1117&stroke=00A1D6&ring=00A1D6&fire=00A1D6" />
+</div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 <!--
 **flytoCove/flytoCove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
